@@ -1,7 +1,5 @@
 import type { Plugin } from "@elizaos/core";
 // import { executeSwap } from "./starknet/actions/swap";
-import transfer from "./starknet/actions/transfer";
-import { deployToken } from "./starknet/actions/unruggable";
 // import transferSubdomain from "./starknet/actions/subdomain";
 //github actions
 import createIssue from "./githhub/actions/create-issue";
